@@ -1,0 +1,75 @@
+TTP Routine Checklist|F!400
+
+# Form based on TTP Routine Checklist Version 1.2 Date 20230830
+
+? Timeframe?
+@1 Current
+@2 Next 24 Hours.
+@3 Next 72 Hours.
+
+? Food?
+@1 No Danger
+@2 Danger in <24 Hours
+@3 Danger in 24-48 hours
+@4 Danger in 48-72 hours
+@5 Danger after 72 hours
+
+? Water?
+@1 No Danger
+@2 Danger in <24 Hours
+@3 Danger in 24-48 hours
+@4 Danger in 48-72 hours
+@5 Danger after 72 hours
+
+
+? Shelter?
+@1 No Danger
+@2 Danger in <24 Hours
+@3 Danger in 24-48 hours
+@4 Danger in 48-72 hours
+@5 Danger after 72 hours
+
+? Weather?
+@1 No Danger
+@2 Danger in <24 Hours
+@3 Danger in 24-48 hours
+@4 Danger in 48-72 hours
+@5 Danger after 72 hours
+
+? Power?
+@1 Grid
+@2 Battery 8 hours
+@3 Battery 24 hours
+@4 Battery 48 hours
+@5 Battery 72+ hours
+
+? Comms?
+@1 VHF
+@2 UHF
+@3 HF
+@4 SATCOM
+@5 Internet
+@6 Multiple
+
+? Modes?
+@1 Voice
+@2 Winlink
+@3 APRS
+@4 Digital
+@5 CW
+@6 Multiple
+
+? Humans / Animals?
+@1 Adults
+@2 Children
+@3 Canines
+@4 Felines
+@5 Other
+@6 Adults & Children
+@7 Adults, Children & Animals
+
+? Next Report?
+@1 8 hours
+@2 24 hours
+@3 48 hours
+@4 None
