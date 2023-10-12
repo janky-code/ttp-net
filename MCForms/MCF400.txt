@@ -49,7 +49,6 @@ TTP Routine Checklist|F!400
 @3 HF
 @4 SATCOM
 @5 Internet
-@6 Multiple
 
 ? Modes?
 @1 Voice
@@ -64,9 +63,9 @@ TTP Routine Checklist|F!400
 @2 Children
 @3 Canines
 @4 Felines
-@5 Other
-@6 Adults & Children
-@7 Adults, Children & Animals
+@5 Adults & Children
+@6 Adults, Children & Animals
+@7 Retrieve count with "E? F!400I"
 
 ? Next Report?
 @1 8 hours
