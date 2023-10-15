@@ -4,7 +4,7 @@ TTP MEDEVAC Checklist|F!401
 
 ? Location of Pickup Site
 @1 Operator's QTH
-@2 Retrieve location (maidenhead grid, coords, etc) with "E? F!401A"
+@2 Retrieve location (maidenhead grid, coords, etc.) with "E? F!401A"
 
 ? Radio Frequency:
 @1 10.124 MHz
