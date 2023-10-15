@@ -2,7 +2,7 @@
 
 Here you will find assets to use with TTP Net. Should you have any questions, please reach out to `Austin (KC2SAH)` or `Janky` on `#ttp-nets` Discord 
 
-[*MCForms*](MCForms/) - Forms for use with JS8 Spotter
+[*MCForms*](MCForms/) - Forms for use with [JS8 Spotter](https://kf7mix.com/js8spotter.html)
 
 
 
