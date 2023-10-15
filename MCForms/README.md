@@ -21,8 +21,9 @@
 
 Once the form has been completed:
 - Click `Post Form to Expect`. A popup will appear to confirm your post.
-- Click `Yes` to submit
-![js8spotter_post_to_expect.png](..%2Fassets%2Fimages%2Fjs8spotter_post_to_expect.png)
+- Click `Yes` to submit.
+
+  ![js8spotter_post_to_expect.png](..%2Fassets%2Fimages%2Fjs8spotter_post_to_expect.png)
 
 ### Submitting the Forms
 
@@ -38,7 +39,8 @@ The _Manually Send Expect Response_ window will open.
 - Enter callsign or group
 - Ensure the `Send as MSG` box is checked
 - Click `Send`
-![js8spotter_expect_send_window.png](..%2Fassets%2Fimages%2Fjs8spotter_expect_send_window.png)
+
+  ![js8spotter_expect_send_window.png](..%2Fassets%2Fimages%2Fjs8spotter_expect_send_window.png)
 </details>
 
 # Form Specific Instructions
