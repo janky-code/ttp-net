@@ -49,8 +49,8 @@ The _Manually Send Expect Response_ window will open.
   ![js8spotter_expect_send_window.png](../assets/images/js8spotter_expect_send_window.png)
 </details>
 
-# Form Specific Instructions
-
+# Form Specific Instructions coming soon
+<!--
 <details>
 <summary>MC400 TTP Routine Checklist</summary>
 
@@ -65,10 +65,4 @@ The _Manually Send Expect Response_ window will open.
 
 </details>
 
-
-
-
-
-
-
-
+-->
