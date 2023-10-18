@@ -1,6 +1,6 @@
 # TTP MCForms
 
-[Introduction to MCForms](../assets/howto/mcforms.md) - WORK IN PROGRESS
+[Introduction to MCForms](../assets/howto/mcforms.md)
 <!-- TO DO: add more details about me later -->
 
 <details>
